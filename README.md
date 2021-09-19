@@ -1,2 +1,4 @@
-# discordserverinfo
-Ce petit script te permet d'obtenir quelque infos sur un serveur discord en ayant seulement son id.
+
+#Discord Server infos
+Ce script fonctionne uniquement sur des serveurs qui ont activé cette option :
+![Screen](https://cdn.discordapp.com/attachments/861363594234691624/889157017078472734/CHqbcBlT.png)
